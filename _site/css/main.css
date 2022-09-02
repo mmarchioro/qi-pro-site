@@ -90,7 +90,7 @@ header li { list-style: none; }
 
 @media only screen and (max-width: 45.25em) { .menu { display: block; cursor: pointer; } .close-nav { display: block; cursor: pointer; } .show-nav { transform: translateX(0); opacity: 1; visibility: visible; } }
 
-.home { background-image: url(/image//background-image.png); height: 100vh; width: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; display: flex; justify-content: center; align-items: center; }
+.home { background-image: url(image//background-image.png); height: 100vh; width: 100%; background-position: center; background-repeat: no-repeat; background-size: cover; display: flex; justify-content: center; align-items: center; }
 
 @media only screen and (max-width: 45.25em) { .home { height: 90vh; } }
 
