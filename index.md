@@ -1,6 +1,6 @@
 ---
 layout: default
-title: quantisland Website
+title: Quant Island Website
 ---
 
 
